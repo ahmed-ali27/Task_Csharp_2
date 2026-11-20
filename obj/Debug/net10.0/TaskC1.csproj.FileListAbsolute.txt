@@ -1,0 +1,16 @@
+F:\cSharp\Projects\TaskCharp1\TaskC1\bin\Debug\net10.0\TaskC1.exe
+F:\cSharp\Projects\TaskCharp1\TaskC1\bin\Debug\net10.0\TaskC1.deps.json
+F:\cSharp\Projects\TaskCharp1\TaskC1\bin\Debug\net10.0\TaskC1.runtimeconfig.json
+F:\cSharp\Projects\TaskCharp1\TaskC1\bin\Debug\net10.0\TaskC1.runtimeconfig.dev.json
+F:\cSharp\Projects\TaskCharp1\TaskC1\bin\Debug\net10.0\TaskC1.dll
+F:\cSharp\Projects\TaskCharp1\TaskC1\bin\Debug\net10.0\TaskC1.pdb
+F:\cSharp\Projects\TaskCharp1\TaskC1\obj\Debug\net10.0\TaskC1.GeneratedMSBuildEditorConfig.editorconfig
+F:\cSharp\Projects\TaskCharp1\TaskC1\obj\Debug\net10.0\TaskC1.AssemblyInfoInputs.cache
+F:\cSharp\Projects\TaskCharp1\TaskC1\obj\Debug\net10.0\TaskC1.AssemblyInfo.cs
+F:\cSharp\Projects\TaskCharp1\TaskC1\obj\Debug\net10.0\TaskC1.csproj.CoreCompileInputs.cache
+F:\cSharp\Projects\TaskCharp1\TaskC1\obj\Debug\net10.0\TaskC1.dll
+F:\cSharp\Projects\TaskCharp1\TaskC1\obj\Debug\net10.0\refint\TaskC1.dll
+F:\cSharp\Projects\TaskCharp1\TaskC1\obj\Debug\net10.0\TaskC1.pdb
+F:\cSharp\Projects\TaskCharp1\TaskC1\obj\Debug\net10.0\TaskC1.genruntimeconfig.cache
+F:\cSharp\Projects\TaskCharp1\TaskC1\obj\Debug\net10.0\ref\TaskC1.dll
+F:\cSharp\Projects\TaskCharp1\TaskC1\obj\Debug\net10.0\TaskC1.csproj.Up2Date
